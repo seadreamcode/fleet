@@ -1,7 +1,5 @@
 # Fleet
 
-> Minimal CI System
-
 *Work in Progress*
 
 ## Installation
